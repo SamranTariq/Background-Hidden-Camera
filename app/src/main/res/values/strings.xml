@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Background Hidden Camera</string>
+    <string name="pref_key_operation_mode">pref_key_operation_mode</string>
+    <string name="pref_summary_help_enable">Check to enable help at startup</string>
+    <string name="pref_key_help_enable">pref_key_help_enable</string>
+    <string name="pref_key_revoke_setup">pref_key_revoke_setup</string>
+    <string name="pref_key_command_text">pref_key_command_text</string>
+    <string name="pref_key_command_number_1">pref_key_command_number_1</string>
+    <string name="pref_key_command_number_2">pref_key_command_number_2</string>
+</resources>
