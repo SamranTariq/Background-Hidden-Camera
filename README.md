@@ -92,6 +92,6 @@ File f = new File(Environment.getExternalStorageDirectory()
 3. Generate pull request. Mention all the required description regarding changes you made.
 
 ## Questions
-Hit me on Linked_In [Samran Tariq](https://www.linkedin.com/in/samran-tariq/)
+Ping me on Linked_In [Samran Tariq](https://www.linkedin.com/in/samran-tariq/)
 
 Best Of Luck
